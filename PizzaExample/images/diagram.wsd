@@ -1,0 +1,10 @@
+@startuml
+actor Client 
+participant Pizzaria
+database Item
+
+Client -> Pizzaria: Send an Order
+Item -> Pizzaria: Check the order
+Pizzaria -> Item: Success Response
+Pizzaria -> Client: Order will be delivered
+@enduml 

@@ -1,2 +1,6 @@
 # TestCoding
- new project of code to be tested
+ New Project of Coding to be Tested
+
+ Using a Pizza Store Order for an example
+
+
